@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -rdynamic CMakeFiles/program.dir/src/main.cpp.o CMakeFiles/program.dir/src/func.cpp.o CMakeFiles/program.dir/src/playlist.cpp.o -o program 
